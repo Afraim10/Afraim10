@@ -1,5 +1,10 @@
 # 💻 Afraim — Computational Proteomics & Protein Design:
-<br>BSc Medical Biotechnology, Badr University in Cairo. Building toward MSc/PhD in computational biology abroad.<br><br>Focus areas: Proteomics data analysis · Protein structure prediction · Protein design<br><br>Roadmap progress:<br><br> Phase 0 — Computational Foundations (in progress)<br> Phase 1 — Sequence Analysis & PPI Networks<br> Phase 2 — Genomic Data Science & Algorithms<br> Phase 3 — Proteomics Foundations<br> Phase 4 — Structural Biology, Simulation & Protein Design<br>Tools: Python · R · Git/GitHub · WSL2/Ubuntu · Biopython (incoming)
+<br>BSc Medical Biotechnology, Badr University in Cairo. Building toward MSc/PhD in computational biology abroad.<br><br>Focus areas: Proteomics data analysis · Protein structure prediction · Protein design<br><br>Roadmap progress:<br>
+- [x] Phase 0 — Computational Foundations (in progress)
+- [ ] Phase 1 — Sequence Analysis & PPI Networks
+- [ ] Phase 2 — Genomic Data Science & Algorithms
+- [ ] Phase 3 — Proteomics Foundations
+- [ ] Phase 4 — Structural Biology, Simulation & Protein Design
 
 
 ## 🌐 Socials:
