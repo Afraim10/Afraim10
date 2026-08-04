@@ -3,6 +3,7 @@
   <img data-importer="image" height="450" src="https://media.discordapp.net/attachments/1378024790798897348/1534228567125262487/080b61a0-4102-4b6b-8f14-fae2f4bc6485.png?ex=6a735d32&is=6a720bb2&hm=a8e05279f1ee0c3e43731955c18a5726433a09752f17890d4cbd61e7262a4c15&=&format=webp&quality=lossless"  />
 </div>
 <br>BSc Medical Biotechnology, Badr University in Cairo. Building toward MSc/PhD in computational biology abroad.<br><br>Focus areas: Proteomics data analysis · Protein structure prediction · Protein design<br><br>Roadmap progress:<br>
+
 - [x] Phase 0 — Computational Foundations (in progress)
 - [ ] Phase 1 — Sequence Analysis & PPI Networks
 - [ ] Phase 2 — Genomic Data Science & Algorithms
