@@ -1,6 +1,6 @@
 # 💻 Afraim — Computational Proteomics & Protein Design:
 <div data-importer="image" align="left">
-  <img data-importer="image" height="450" src="https://media.discordapp.net/attachments/1378024790798897348/1534228567125262487/080b61a0-4102-4b6b-8f14-fae2f4bc6485.png?ex=6a8b1832&is=6a89c6b2&hm=30e3436cb6c06686a3cbbad4fbaf437ce136cf48fbf54ca74f73a7f8932dba8e&=&format=webp&quality=lossless"  />
+  <img data-importer="image" height="450" src="https://postimg.cc/Q9X7dXBh"  />
 </div>
 <br>BSc Medical Biotechnology, Badr University in Cairo. Building toward MSc/PhD in computational biology abroad.<br><br>Focus areas: Proteomics data analysis · Protein structure prediction · Protein design<br><br>Roadmap progress:<br>
 
