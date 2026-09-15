@@ -4,8 +4,8 @@
 </div>
 <br>BSc Medical Biotechnology, Badr University in Cairo. Building toward MSc/PhD in computational biology abroad.<br><br>Focus areas: Proteomics data analysis · Protein structure prediction · Protein design<br><br>Roadmap progress:<br>
 
-- [x] Phase 0 — Computational Foundations (in progress)
-- [ ] Phase 1 — Sequence Analysis & PPI Networks
+- [x] Phase 0 — Computational Foundations 
+- [x] Phase 1 — Sequence Analysis & PPI Networks (in progress)
 - [ ] Phase 2 — Genomic Data Science & Algorithms
 - [ ] Phase 3 — Proteomics Foundations
 - [ ] Phase 4 — Structural Biology, Simulation & Protein Design
