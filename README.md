@@ -1,7 +1,6 @@
 # 💻 Afraim — Computational Proteomics & Protein Design:
-<div data-importer="image" align="left">
-  <img data-importer="image" height="450" src="https://i.postimg.cc/1t2pgv4Y/Github-Cover-Afraim10.jpg"/>
-</div>
+<img width="7932" height="3172" alt="githubcoverafraim10" src="https://github.com/user-attachments/assets/b0337d27-5f3c-4585-a7cc-c04e0d7451d1" />
+
 <br>BSc Medical Biotechnology, Badr University in Cairo. Building toward MSc/PhD in computational biology abroad.<br><br>Focus areas: Proteomics data analysis · Protein structure prediction · Protein design<br><br>Roadmap progress:<br>
 
 - [x] Phase 0 — Computational Foundations 
